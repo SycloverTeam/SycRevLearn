@@ -1,7 +1,7 @@
 # Syclover 技术小组二进制方向招新培训
 ## 课程大纲
 - [x] 逆向工程介绍
-- [ ] 简单的加密算法
+- [x] 简单的加密算法
 - [ ] 简单的加密算法2
 - [ ] Base64 编码逆向
 - [ ] Base64 变表逆向
@@ -53,7 +53,6 @@ https://bbs.pediy.com/thread-268712.htm
 
 3. LazyIDA
 https://github.com/P4nda0s/LazyIDA
-
 
 
 
